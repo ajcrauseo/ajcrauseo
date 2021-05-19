@@ -2,6 +2,8 @@
 
 
 <p>I'm Antony, front end developer from <img src="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-500.png" width="20"/> <b>Venezuela</b>.
+  
+<p>I'm studying to be a Full Stack Developer with the MERN Stack</p>
 
 <hr>
 
