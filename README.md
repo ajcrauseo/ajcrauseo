@@ -1,9 +1,9 @@
 <h1><img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"/> Hi, welcome to my Github! </h1>
 
 
-<p>I'm Antony, front end developer from <img src="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-500.png" width="20"/> <b>Venezuela</b>.
+<p>I'm Antony, JavaScript Web Developer from <img src="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-500.png" width="20"/> <b>Venezuela</b>.
   
-<p>I'm studying to be a Full Stack Developer with the MERN Stack</p>
+<p>Full Stack Developer with the MERN Stack</p>
 
 <hr>
 
