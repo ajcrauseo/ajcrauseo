@@ -3,7 +3,7 @@
 
 <p>I'm Antony, JavaScript Web Developer from <img src="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-500.png" width="20"/> <b>Venezuela</b>.
   
-<p>Full Stack Developer with the MERN Stack</p>
+<p>JavaScript Developer with MERN Stack</p>
 
 <hr>
 
