@@ -2,8 +2,7 @@
 
 
 <p>I'm Antony, Frontend Developer from <img src="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-500.png" width="20"/> <b>Venezuela</b>.
-  
-<p>JavaScript Developer with MERN Stack</p>
+
 
 <hr>
 
