@@ -5,15 +5,6 @@
 
 
 <hr>
-
-<h3>Tech Stack:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skills.thijs.gg/icons?i=html,css,js,ts,tailwind,react,next,nodejs,git" />
-  </a>
-</p>
-
-<hr>
 <h3>Send me a message:</h3>
 <p>
 
